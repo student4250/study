@@ -1,0 +1,101 @@
+html {
+	border: 15px solid white;
+	height: 100%;
+	width: 100%;
+}
+body {
+	width: 100%;
+	height: 100%;
+	background: url(Pictures/sezs.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.white{
+	color: white;
+}
+.gray{
+	color: gray;
+}
+.yellow{
+	color: #fdcc10;
+}
+.ugol {
+	text-shadow: 2px 1px 0 gray;
+ 	font-family: 'Impact';
+ 	font-size: 30px;
+ 	margin: 1px;
+ 	margin-left: 7px;
+ 	color: white;
+}
+.center {
+	text-shadow: 0 1px 0 gray;
+ 	text-align: center;
+ 	margin-top: 10px;
+ 	font-family: 'Impact';
+	font-size: 100px;
+}
+.stay {
+	text-shadow: 0 1px 0 gray;
+	text-align: center;
+    margin-top: 0;
+    font-size: 30px;
+    font-family: monospace;
+    color: black;
+}
+.days {
+	text-align: center;
+	color: white;
+	font-family: cursive;
+	font-size: 35px;
+	margin-right: 100px;
+	text-shadow: 0 1px 0 gray;
+}
+.cifra {
+	margin-left: 100px;
+}
+.dayss {
+	color: white;
+	font-family: monospace;
+	font-size: 18px;
+	text-shadow: 0 1px 0 gray;
+}
+.hours1 {
+	margin-left: 109px;
+}
+.minutes1 {
+	margin-left: 85px;
+}
+.seconds1 {
+	margin-left: 71px;
+}
+a.blubtn {
+  width:90px;
+  text-align:center;
+  display:block;
+  font-family: arial;
+  text-decoration: none;
+  font-weight: 300;
+  font-size: 14px;
+  border: #1071FF 1px solid;
+  color: #1071FF;
+  padding: 3px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 20px auto;
+  margin-left: 1400px;
+  transition: .5s;
+  border-radius: 0px;
+}
+a.blubtn:hover {
+  top: 5px;
+  transition: .5s;
+  color: #10FF58;
+  border: #10FF58 1px solid;
+  border-radius: 10px;
+}
+a.blubtn:active {
+  color: #000;
+  border: #1A1A1A 1px solid;
+  transition: .07s;
+  background-color: #FFF;
+}

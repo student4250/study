@@ -1,0 +1,71 @@
+html {
+	border: 15px solid white;
+	height: 100%;
+	width: 100%;
+}
+body {
+	width: 100%;
+	height: 100%;
+	background: url(Pictures/chicago-shole-razmitoe.jpg);
+	background-size: 110%;
+	background-repeat: no-repeat;
+}
+.white{
+	color: white;
+}
+.yellow{
+	color: #fdcc10;
+}
+.ugol {
+	text-shadow: 0 1px 0 #4C00FF;
+ 	font-family: 'Impact';
+ 	font-size: 30px;
+ 	margin: 1px;
+ 	margin-left: 7px;
+}
+.center {
+	text-shadow: 0 1px 0 #4C00FF;
+ 	text-align: center;
+ 	margin-top: 150px;
+ 	font-family: 'Impact';
+	font-size: 100px;
+}
+.stay {
+	text-shadow: 0 1px 0 #4C00FF;
+	text-align: center;
+    margin-top: 0;
+    font-size: 15px;
+    font-family: monospace;
+}
+.days {
+	text-align: center;
+	color: white;
+	font-family: cursive;
+	font-size: 35px;
+	margin-right: 100px;
+	text-shadow: 0 1px 0 #4C00FF;
+}
+.cifra {
+	margin-left: 100px;
+}
+.dayss {
+	color: white;
+	font-family: monospace;
+	font-size: 18px;
+	text-shadow: 0 1px 0 #4C00FF;
+}
+.day1 {
+	margin-left: 130px;
+}
+.hours1 {
+	margin-left: 110px;
+}
+.minutes1 {
+	margin-left: 85px;
+}
+.seconds1 {
+	margin-left: 75px;
+}
+.ww {
+	margin-left: 5px;
+}
